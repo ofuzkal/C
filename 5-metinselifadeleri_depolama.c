@@ -2,13 +2,13 @@
 #include <stdlib.h>
 
 /*Metinsel ifadeleri variable'a eklme.
- C'de str yerine char vardır.
- C'de inenksele yaparken sifirdan başlar.
+ C'de str yerine char vardÄ±r.
+ C'de indeksleme yaparken sifirdan baÅŸlar.
  Fazladan verilen ifadelere null denir.
  ASCII kodalari bilgisayarda gorsel olarak gordugumuz
- karakter, harf veya rakamların bilgisayar dilinde
+ karakter, harf veya rakamlarÄ±n bilgisayar dilinde
  temsil edilme seklidir.Bellekte bu sekilde saklar.
- Char olmasına ragmen sayisal degeri tek bir karakter 
+ Char olmasÄ±na ragmen sayisal degeri tek bir karakter 
  olarak yazdirir*/
 
 int main() 
