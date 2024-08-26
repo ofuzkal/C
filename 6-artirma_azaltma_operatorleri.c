@@ -1,10 +1,10 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-/*Operatorler, variable'lar ve degerler uzerinde islem yapmak için kullnılır.
-  Operator genelde iki degeri bir araya getirmek için kullanılsa da,
-  nir variable ile bir degeri veya bir variable ile başka bir variable'i 
-  birlikte eklemek için kullanilabilir.
+/*Operatorler, variable'lar ve degerler uzerinde islem yapmak iÃ§in kullnÄ±lÄ±r.
+  Operator genelde iki degeri bir araya getirmek iÃ§in kullanÄ±lsa da,
+  Bir variable ile bir degeri veya bir variable ile baÅŸka bir variable'i 
+  birlikte eklemek iÃ§in kullanilabilir.
   
   Arithmetic Operators:
   + Ekleme Operatoru
@@ -12,9 +12,9 @@
   * Carpma Operatoru 
   / Bolme Operatoru
   % Mod Alma Operatoru(Bir sayiyi bir sayiya boldugumuzde kalan.)
-  ++ Arttırma Operatoru
+  ++ ArttÄ±rma Operatoru
   -- Eksiltme Operatoru
-  Artirma yada eksiltme sağda olursa ilk once işlemini yap sonra artirir yada azaltiriz.*/
+  Artirma yada eksiltme saÄŸda olursa ilk once iÅŸlemini yap sonra artirir yada azaltiriz.*/
 
 int main() 
 {
