@@ -11,7 +11,7 @@ Operator   Example   Same As
   %=        a%=5       a=a%5
   &=        a&=5       a=a&5 //Bu işaret "and" işaretidir.Her iki koşulda saglanmalidir.
  
-  |=        a|=5       a=a|5 //Bu işaret "or" işaretidir.Her iki koşuldan biri saglanmalidir.
+  |=        a|=5       a=a|5 //Bu işaret "or" işaretidir.Her iki koşuldan biri saglanmasi yeterlidir.
   
   ^=        a^=5       a=a^5 //Bu işaret "xor" işaretidir.Her iki koşul aynı durumda olursa sıfır.
                                Her iki koşul aynı durumda olmaz ise bir.
