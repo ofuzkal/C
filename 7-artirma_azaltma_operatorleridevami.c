@@ -21,7 +21,7 @@ Operator   Example   Same As
   <<=       a<<=5      a=a<<5  leftshift Bitleri  sola iki kez kaydırma yapar ve kayan yerler sifir olur.
   */         
 
-/*Kullanicidan 4 basamakli bir sayş alip bu sayinin rakamlarini toplayan program yapalım*/
+/*Kullanicidan 4 basamakli bir sayi alip bu sayinin rakamlarini toplayan program yapalım*/
 int main() 
 {
 	int sayi, bolum, kalan, toplam;
