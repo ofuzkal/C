@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-/* Assigmen Operators
+/* Assigment Operators
 Operator   Example   Same As
   =         a = 5      a = 5
   +=        a+=5       a=a+5
@@ -9,19 +9,19 @@ Operator   Example   Same As
   *=        a*=5       a=a*5
   /=        a/=5       a=a/5
   %=        a%=5       a=a%5
-  &=        a&=5       a=a&5 //Bu iþaret "and" iþaretidir.Her iki koþulda saglanmalidir.
+  &=        a&=5       a=a&5 //Bu iÅŸaret "and" iÅŸaretidir.Her iki koÅŸulda saglanmalidir.
  
-  |=        a|=5       a=a|5 //Bu iþaret "or" iþaretidir.Her iki koþuldan biri saglanmalidir.
+  |=        a|=5       a=a|5 //Bu iÅŸaret "or" iÅŸaretidir.Her iki koÅŸuldan biri saglanmalidir.
   
-  ^=        a^=5       a=a^5 //Bu iþaret "xor" iþaretidir.Her iki koþul ayný durumda olursa sýfýr.
-                               Her iki koþul ayný durumda olmaz ise bir.
+  ^=        a^=5       a=a^5 //Bu iÅŸaret "xor" iÅŸaretidir.Her iki koÅŸul aynÄ± durumda olursa sÄ±fÄ±r.
+                               Her iki koÅŸul aynÄ± durumda olmaz ise bir.
                                 xor ornek: 1  1   0  , 1   0    1 ,  0   0   0 ,  0   1     1 .
  
-  >>=       a>>=5      a=a>>5  rightshift Bitleri  sola iki kez kaydýrma yapar ve kayan yerler sifir olur.        
-  <<=       a<<=5      a=a<<5  leftshift Bitleri  sola iki kez kaydýrma yapar ve kayan yerler sifir olur.
+  >>=       a>>=5      a=a>>5  rightshift Bitleri  sola iki kez kaydÄ±rma yapar ve kayan yerler sifir olur.        
+  <<=       a<<=5      a=a<<5  leftshift Bitleri  sola iki kez kaydÄ±rma yapar ve kayan yerler sifir olur.
   */         
 
-/*Kullanicidan 4 basamakli bir sayþ alip bu sayinin rakamlarini toplayan program yapalým*/
+/*Kullanicidan 4 basamakli bir sayÅŸ alip bu sayinin rakamlarini toplayan program yapalÄ±m*/
 int main() 
 {
 	int sayi, bolum, kalan, toplam;
