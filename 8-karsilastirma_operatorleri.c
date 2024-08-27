@@ -2,9 +2,9 @@
 #include <stdlib.h>
 
 /*Comparison Operators 
-Karşılaştırma operatorleri ya true(1) ya faulse(0)'dur
-Eşittir(=) atama operatörüdür.Bizim bildiğimiz eşittir:== 
-Eşit değildir: !=
+Karsilastirma operatorleri ya true(1) ya faulse(0)'dur
+Esittir(=) atama operatÃ¶rÃ¼dÃ¼r.Bizim bildiÃ°imiz eÃ¾ittir:== 
+Esit degildir:!=
 
 */
 int main() 
