@@ -3,7 +3,7 @@
 
 /*Comparison Operators 
 Karsilastirma operatorleri ya true(1) ya faulse(0)'dur
-Esittir(=) atama operatörüdür.Bizim bildiðimiz eþittir:== 
+Esittir(=) atama operatörüdür.Bizim bildiðimiz esittir:== 
 Esit degildir:!=
 
 */
