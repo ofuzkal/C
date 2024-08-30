@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 /* Logical Operators//Mantiksal Operatorler
- &&=ve=Koþullarin tümü olmalý.Saglanmak zorunda eger saglaniyorsa true yani 1 donecek.*/
+ &&=ve=KoÅŸullarin tÃ¼mÃ¼ olmalÄ±.Saglanmak zorunda eger saglaniyorsa true yani 1 donecek.*/
 
 int main() 
 {
@@ -15,7 +15,7 @@ int main()
 } 
  
  
-/* ||=veya=Kosullardan biri saglansa yeter.Biri saglanmasý sonucunda 1 doner. */
+/* ||=veya=Kosullardan biri saglansa yeter.Biri saglanmasÄ± sonucunda 1 doner. */
 int main() 
 {
 	int x,y;
@@ -27,16 +27,16 @@ int main()
 }
  
  
-/* !=Degil=sonucu tersine cevirir.Sonuc dogruysa yanlýs dondurur.Belli bir kosulun 
-   olmadýgý durumda kullanilir.
+/* !=Degil=sonucu tersine cevirir.Sonuc dogruysa yanlÄ±s dondurur.Belli bir kosulun 
+   olmadÄ±gÄ± durumda kullanilir.
   */
  int main() 
 {
 	int x,y;
 	x=6;
 	
-	printf("Sonuc:%d\n",!(x>5 && X<10)); /*5<x<10 bu araligi kabul etme demek.
-	                                      parantez içi 1 donecek ama 1'in degili 0 oldugundan ötürü
+	printf("Sonuc:%d\n",!(x>5 && x<10)); /*5<x<10 bu araligi kabul etme demek.
+	                                      parantez iÃ§i 1 donecek ama 1'in degili 0 oldugundan Ã¶tÃ¼rÃ¼
 										  sonuc 0'dir*/
 	                                        
 	
